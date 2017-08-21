@@ -1,0 +1,19 @@
+{
+  "name": "@mae/dob_mask",
+  "version": "1.0.1",
+  "description": "date of birth bind with id element ",
+  "main": "dob_mask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furqanfreed31/dob_mask.git"
+  },
+  "keywords": [
+    "dob",
+    "mae"
+  ],
+  "author": "furqanfreed <furqan@clicksco.com>",
+  "license": "ISC"
+}
