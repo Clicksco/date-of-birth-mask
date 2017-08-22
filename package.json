@@ -1,19 +1,20 @@
 {
   "name": "@mae/dob_mask",
   "version": "1.0.1",
-  "description": "date of birth bind with id element ",
+  "description": "date of birth mask on input element ",
   "main": "dob_mask.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/furqanfreed31/dob_mask.git"
+    "url": "https://github.com/Clicksco/date-of-birth-mask.git"
   },
   "keywords": [
-    "dob",
+    "inputmask",
     "mae"
   ],
   "author": "furqanfreed <furqan@clicksco.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
